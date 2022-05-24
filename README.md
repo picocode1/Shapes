@@ -1,5 +1,5 @@
 # Shapes
-### Draw shapes using input
+### Draw shapes using NodeJS
 
 Usage: `node shapes.js`:
 
